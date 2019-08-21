@@ -32,7 +32,11 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'More Info About Levi',
+        label: 'Test',
+        route: 'page',
+        id: 'Test'
+      }, {
+        label: 'About',
         route: 'page',
         id: 'levi-sands'
       }]
