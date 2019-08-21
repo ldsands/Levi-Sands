@@ -1,5 +1,5 @@
 ---
-title: Built with ❤️ by Chris Manson
+title: Levi Sands PhD Candidate at the University of Iowa
 image: /images/built-by.jpg
 imageMeta:
   attribution:
