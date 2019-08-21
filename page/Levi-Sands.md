@@ -1,5 +1,5 @@
 ---
-title: Levi Sands PhD Candidate at the University of Iowa
+title: Levi Sands
 #image: /images/built-by.jpg
 imageMeta:
   attribution:
