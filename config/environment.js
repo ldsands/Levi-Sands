@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: 'Levi Sands',
-      description: 'My Thoughts',
+      description: 'My Resources and Thoughts',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
