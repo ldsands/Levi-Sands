@@ -1,9 +1,9 @@
 ---
 title:  Snappy vs Zstd for Parquet in Pyarrow
-image: https://cdn.pixabay.com/photo/2015/02/04/20/31/stress-624220_960_720.jpg
+image: /images/stress-apple.jpg
 imageMeta:
   attribution:
-  attributionLink:
+  attributionLink: https://cdn.pixabay.com/photo/2015/02/04/20/31/stress-624220_960_720.jpg
 featured: true
 authors:
   - Levi Sands
