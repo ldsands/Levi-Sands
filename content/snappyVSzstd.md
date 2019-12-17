@@ -7,7 +7,7 @@ imageMeta:
 featured: true
 authors:
   - Levi Sands
-date: Tue Dec 17 2019
+date: Tue Dec 17 2019 07:50:54 GMT-0600 (CST)
 tags:
   - python
 ---
