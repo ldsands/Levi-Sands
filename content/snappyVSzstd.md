@@ -10,10 +10,6 @@ authors:
 date: Tue Dec 17 2019
 tags:
   - python
-  - snappy
-  - zstd
-  - pandas
-  - parquet
 ---
 
 I am working on a project that has a lot of data. In the process of extracting from its original bz2 compression I decided to put them all into parquet files due to its availability and ease of use in other languages as well as being just able to do everything I need of it. 
