@@ -34,7 +34,7 @@ module.exports = function(environment) {
       }, {
         label: 'All Posts',
         route: 'page',
-        id: 'Page-Index.md'
+        id: 'Page-Index'
       }, {
         label: 'About',
         route: 'page',
