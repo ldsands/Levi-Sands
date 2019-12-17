@@ -38,7 +38,7 @@ module.exports = function(environment) {
       }, {
         label: 'About',
         route: 'page',
-        id: 'Levi-Sands.md'
+        id: 'Levi-Sands'
       }]
     },
 
