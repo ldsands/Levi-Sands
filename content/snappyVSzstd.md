@@ -6,7 +6,7 @@ imageMeta:
   attributionLink: https://cdn.pixabay.com/photo/2015/02/04/20/31/stress-624220_960_720.jpg
 featured: true
 authors:
-  - Levi Sands
+  - levi
 date: Tue Dec 17 2019 07:50:54 GMT-0600 (CST)
 tags:
   - python
