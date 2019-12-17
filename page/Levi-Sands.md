@@ -1,13 +1,13 @@
 ---
 title: Levi Sands
-#image: /images/built-by.jpg
+image: /images/Levi-Sands.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
-  - ghost
-date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
+  - Levi Sands
+date: Tue Dec 17 2019
 tags:
 ---
 
