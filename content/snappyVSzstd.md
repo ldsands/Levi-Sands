@@ -1,4 +1,20 @@
-# Snappy vs Zstd for Parquet in Pyarrow
+---
+title:  Snappy vs Zstd for Parquet in Pyarrow
+image: https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Zstandard_logo.png/220px-Zstandard_logo.png
+imageMeta:
+  attribution:
+  attributionLink:
+featured: true
+authors:
+  - Levi Sands
+date: Tue Dec 17 2019
+tags:
+  - python
+  - snappy
+  - zstd
+  - pandas
+  - parquet
+---
 
 I am working on a project that has a lot of data. In the process of extracting from its original bz2 compression I decided to put them all into parquet files due to its availability and ease of use in other languages as well as being just able to do everything I need of it. 
 
