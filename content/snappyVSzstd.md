@@ -1,6 +1,6 @@
 ---
 title:  Snappy vs Zstd for Parquet in Pyarrow
-image: https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Zstandard_logo.png/220px-Zstandard_logo.png
+image: https://cdn.pixabay.com/photo/2015/02/04/20/31/stress-624220_960_720.jpg
 imageMeta:
   attribution:
   attributionLink:
