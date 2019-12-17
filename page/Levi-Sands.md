@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - Levi Sands
+  - levi
 date: Tue Dec 17 2019
 tags:
 ---
