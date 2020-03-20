@@ -10,6 +10,9 @@ authors:
 date: Tue Dec 17 2019 07:50:54 GMT-0600 (CST)
 tags:
   - python
+  - parquet
+  - data
+  - pandas
 ---
 
 I am working on a project that has a lot of data. In the process of extracting from its original bz2 compression I decided to put them all into parquet files due to its availability and ease of use in other languages as well as being just able to do everything I need of it. 
